@@ -1,0 +1,23 @@
+git --version
+
+git init  Initliaze the git 
+
+
+git add .    -> for adding the files
+
+git status   -> to check the status
+git commit -m "<<tagname>> First coomit"
+
+
+git log    -> Commit number  
+
+
+git checkout  <<Commit number>>   -->   To check the previous version
+
+git remote add origin <<git url>>   -> to push existing repo to git
+git branch -M main
+git push -u origin main
+
+
+
+
